@@ -1,0 +1,121 @@
+text,real,modelo,prompt,pred
+Es un gran servicio,positiva,OpenAI,zero-shot,error
+Es un gran servicio,positiva,OpenAI,few-shot,error
+Es un gran servicio,positiva,OpenAI,chain-of-thought,error
+Es un gran servicio,positiva,HuggingFace,preentrenado,positivo
+Es regular,neutral,OpenAI,zero-shot,error
+Es regular,neutral,OpenAI,few-shot,error
+Es regular,neutral,OpenAI,chain-of-thought,error
+Es regular,neutral,HuggingFace,preentrenado,neutral
+Es un producto útil,positiva,OpenAI,zero-shot,error
+Es un producto útil,positiva,OpenAI,few-shot,error
+Es un producto útil,positiva,OpenAI,chain-of-thought,error
+Es un producto útil,positiva,HuggingFace,preentrenado,positivo
+Es un fraude,negativa,OpenAI,zero-shot,error
+Es un fraude,negativa,OpenAI,few-shot,error
+Es un fraude,negativa,OpenAI,chain-of-thought,error
+Es un fraude,negativa,HuggingFace,preentrenado,negativo
+Me gusta mucho,positiva,OpenAI,zero-shot,error
+Me gusta mucho,positiva,OpenAI,few-shot,error
+Me gusta mucho,positiva,OpenAI,chain-of-thought,error
+Me gusta mucho,positiva,HuggingFace,preentrenado,positivo
+Es un desastre,negativa,OpenAI,zero-shot,error
+Es un desastre,negativa,OpenAI,few-shot,error
+Es un desastre,negativa,OpenAI,chain-of-thought,error
+Es un desastre,negativa,HuggingFace,preentrenado,negativo
+Es un mal servicio,negativa,OpenAI,zero-shot,error
+Es un mal servicio,negativa,OpenAI,few-shot,error
+Es un mal servicio,negativa,OpenAI,chain-of-thought,error
+Es un mal servicio,negativa,HuggingFace,preentrenado,negativo
+Es un producto inútil,negativa,OpenAI,zero-shot,error
+Es un producto inútil,negativa,OpenAI,few-shot,error
+Es un producto inútil,negativa,OpenAI,chain-of-thought,error
+Es un producto inútil,negativa,HuggingFace,preentrenado,negativo
+No lo recomendaría,negativa,OpenAI,zero-shot,error
+No lo recomendaría,negativa,OpenAI,few-shot,error
+No lo recomendaría,negativa,OpenAI,chain-of-thought,error
+No lo recomendaría,negativa,HuggingFace,preentrenado,negativo
+Me encantó el producto,positiva,OpenAI,zero-shot,error
+Me encantó el producto,positiva,OpenAI,few-shot,error
+Me encantó el producto,positiva,OpenAI,chain-of-thought,error
+Me encantó el producto,positiva,HuggingFace,preentrenado,positivo
+No me gusta,negativa,OpenAI,zero-shot,error
+No me gusta,negativa,OpenAI,few-shot,error
+No me gusta,negativa,OpenAI,chain-of-thought,error
+No me gusta,negativa,HuggingFace,preentrenado,negativo
+Es fantástico,positiva,OpenAI,zero-shot,error
+Es fantástico,positiva,OpenAI,few-shot,error
+Es fantástico,positiva,OpenAI,chain-of-thought,error
+Es fantástico,positiva,HuggingFace,preentrenado,positivo
+Me encanta,positiva,OpenAI,zero-shot,error
+Me encanta,positiva,OpenAI,few-shot,error
+Me encanta,positiva,OpenAI,chain-of-thought,error
+Me encanta,positiva,HuggingFace,preentrenado,positivo
+Es un buen producto,positiva,OpenAI,zero-shot,error
+Es un buen producto,positiva,OpenAI,few-shot,error
+Es un buen producto,positiva,OpenAI,chain-of-thought,error
+Es un buen producto,positiva,HuggingFace,preentrenado,positivo
+Es muy bueno,positiva,OpenAI,zero-shot,error
+Es muy bueno,positiva,OpenAI,few-shot,error
+Es muy bueno,positiva,OpenAI,chain-of-thought,error
+Es muy bueno,positiva,HuggingFace,preentrenado,positivo
+Es un mal servicio,negativa,OpenAI,zero-shot,error
+Es un mal servicio,negativa,OpenAI,few-shot,error
+Es un mal servicio,negativa,OpenAI,chain-of-thought,error
+Es un mal servicio,negativa,HuggingFace,preentrenado,negativo
+Es una pérdida de dinero,negativa,OpenAI,zero-shot,error
+Es una pérdida de dinero,negativa,OpenAI,few-shot,error
+Es una pérdida de dinero,negativa,OpenAI,chain-of-thought,error
+Es una pérdida de dinero,negativa,HuggingFace,preentrenado,negativo
+No es nada especial,neutral,OpenAI,zero-shot,error
+No es nada especial,neutral,OpenAI,few-shot,error
+No es nada especial,neutral,OpenAI,chain-of-thought,error
+No es nada especial,neutral,HuggingFace,preentrenado,negativo
+Es un producto normal,neutral,OpenAI,zero-shot,error
+Es un producto normal,neutral,OpenAI,few-shot,error
+Es un producto normal,neutral,OpenAI,chain-of-thought,error
+Es un producto normal,neutral,HuggingFace,preentrenado,neutral
+Te odio,negativa,OpenAI,zero-shot,error
+Te odio,negativa,OpenAI,few-shot,error
+Te odio,negativa,OpenAI,chain-of-thought,error
+Te odio,negativa,HuggingFace,preentrenado,negativo
+Es un buen servicio,positiva,OpenAI,zero-shot,error
+Es un buen servicio,positiva,OpenAI,few-shot,error
+Es un buen servicio,positiva,OpenAI,chain-of-thought,error
+Es un buen servicio,positiva,HuggingFace,preentrenado,positivo
+Es un gran producto,positiva,OpenAI,zero-shot,error
+Es un gran producto,positiva,OpenAI,few-shot,error
+Es un gran producto,positiva,OpenAI,chain-of-thought,error
+Es un gran producto,positiva,HuggingFace,preentrenado,positivo
+Es un producto decente,neutral,OpenAI,zero-shot,error
+Es un producto decente,neutral,OpenAI,few-shot,error
+Es un producto decente,neutral,OpenAI,chain-of-thought,error
+Es un producto decente,neutral,HuggingFace,preentrenado,neutral
+Es un producto excepcional,positiva,OpenAI,zero-shot,error
+Es un producto excepcional,positiva,OpenAI,few-shot,error
+Es un producto excepcional,positiva,OpenAI,chain-of-thought,error
+Es un producto excepcional,positiva,HuggingFace,preentrenado,positivo
+Es un robo,negativa,OpenAI,zero-shot,error
+Es un robo,negativa,OpenAI,few-shot,error
+Es un robo,negativa,OpenAI,chain-of-thought,error
+Es un robo,negativa,HuggingFace,preentrenado,negativo
+Es horrible,negativa,OpenAI,zero-shot,error
+Es horrible,negativa,OpenAI,few-shot,error
+Es horrible,negativa,OpenAI,chain-of-thought,error
+Es horrible,negativa,HuggingFace,preentrenado,negativo
+Es aceptable,neutral,OpenAI,zero-shot,error
+Es aceptable,neutral,OpenAI,few-shot,error
+Es aceptable,neutral,OpenAI,chain-of-thought,error
+Es aceptable,neutral,HuggingFace,preentrenado,neutral
+Es un mal producto,negativa,OpenAI,zero-shot,error
+Es un mal producto,negativa,OpenAI,few-shot,error
+Es un mal producto,negativa,OpenAI,chain-of-thought,error
+Es un mal producto,negativa,HuggingFace,preentrenado,negativo
+Es impresionante,positiva,OpenAI,zero-shot,error
+Es impresionante,positiva,OpenAI,few-shot,error
+Es impresionante,positiva,OpenAI,chain-of-thought,error
+Es impresionante,positiva,HuggingFace,preentrenado,positivo
+Es increíble,positiva,OpenAI,zero-shot,error
+Es increíble,positiva,OpenAI,few-shot,error
+Es increíble,positiva,OpenAI,chain-of-thought,error
+Es increíble,positiva,HuggingFace,preentrenado,positivo

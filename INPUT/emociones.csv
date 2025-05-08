@@ -1,0 +1,31 @@
+id,opinion,label
+1,Me encantó el producto,positiva
+2,Es una pérdida de dinero,negativa
+3,No es nada especial,neutral
+4,Te odio,negativa
+5,No me gusta,negativa
+6,Me encanta,positiva
+7,Es increíble,positiva
+8,Es horrible,negativa
+9,Me gusta mucho,positiva
+10,Es un desastre,negativa
+11,Es aceptable,neutral
+12,Es muy bueno,positiva
+13,No lo recomendaría,negativa
+14,Es un buen producto,positiva
+15,Es un mal producto,negativa
+16,Es regular,neutral
+17,Es fantástico,positiva
+18,Es un fraude,negativa
+19,Es un producto decente,neutral
+20,Es impresionante,positiva
+21,Es un robo,negativa
+22,Es un buen servicio,positiva
+23,Es un mal servicio,negativa
+24,Es un producto útil,positiva
+25,Es un producto inútil,negativa
+26,Es un producto normal,neutral
+27,Es un gran producto,positiva
+28,Es un gran servicio,positiva
+29,Es un mal servicio,negativa
+30,Es un producto excepcional,positiva
